@@ -156,18 +156,10 @@ Feb 2017 – Jan 2021
 
 ---
 
-## 📊 GitHub Stats
-
-![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miansheraaz&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miansheraaz&layout=compact&theme=dark)
-
----
-
 ## 🤝 Let's Connect
 
 I am always open to discussing software architecture, full-stack engineering, scalable backend systems, and product-focused engineering.
 
 📧 **miansheraaz1@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/MuhammadSharaz)  
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-sharaz-794565150/)  
 💻 [GitHub](https://github.com/miansheraaz)
