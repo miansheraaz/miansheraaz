@@ -4,7 +4,7 @@
 
 📍 Lahore, Pakistan  
 📧 miansheraaz1@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/MuhammadSharaz)  
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-sharaz-794565150/)  
 💻 [GitHub](https://github.com/miansheraaz)
 
 ---
